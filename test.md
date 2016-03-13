@@ -1,6 +1,6 @@
 ---
 layout: default
-title: test page
+title: Blogging Like a Hacker
 ---
 
 ## A New Post
