@@ -1,2 +1,3 @@
 name: TS JK test
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
